@@ -1,0 +1,21 @@
+Yolov5
+D:\CrimsonTech2025\Object-Detection-then-Segmentation - Copy\Object-Detection-then-Segmentation\brand_all\holes\runs\train\test\weights\best.pt
+D:\CrimsonTech2025\Object-Detection-then-Segmentation - Copy\Object-Detection-then-Segmentation\brand_all\holes\letterbox_ref
+
+
+Ultralytics
+#Segmentation
+D:\CrimsonTech2025\hygiene-inspection\src\model\segment_best.pt
+D:\CrimsonTech2025\hygiene-inspection\src\warped
+
+#Normal
+D:\CrimsonTech2025\Ultralytics_Sahi\yolo_owndatasets
+D:\CrimsonTech2024\yolo11\yolo11n.pt
+
+#OBB
+D:\CrimsonTech2024\yolov8_obb\new_line\test\images
+D:\CrimsonTech2024\yolov8_obb\runs\obb\train61\weights\best.pt
+
+#Classification
+D:\CrimsonTech2025\Naman_Maze\cropped_detections
+D:\CrimsonTech2025\yolo_detection\models\multi_label_classifier.pt
